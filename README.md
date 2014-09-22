@@ -1,0 +1,4 @@
+wordAnalizer
+============
+
+Analize your text
